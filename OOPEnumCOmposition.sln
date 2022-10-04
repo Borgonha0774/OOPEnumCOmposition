@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPEnumCOmposition", "OOPEnumCOmposition\OOPEnumCOmposition.csproj", "{99215AA9-577A-4A86-8C49-F679781F387C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99215AA9-577A-4A86-8C49-F679781F387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99215AA9-577A-4A86-8C49-F679781F387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99215AA9-577A-4A86-8C49-F679781F387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99215AA9-577A-4A86-8C49-F679781F387C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73BB4328-63C7-48A3-A7AC-2D3D78689772}
+	EndGlobalSection
+EndGlobal
