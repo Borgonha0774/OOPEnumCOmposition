@@ -1,10 +1,10 @@
 ﻿
 namespace OOPEnumComposition.Entities.Enums
 {
-    enum WorkerLevel
+    enum WorkerLevel : int
     {
         Junior,
-        Mid_Level,
+        MidLevel,
         Senior
     }
 }
