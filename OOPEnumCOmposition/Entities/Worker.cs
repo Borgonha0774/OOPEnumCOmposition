@@ -1,8 +1,7 @@
 ﻿
-using OOPEnumComposition.Entities;
 using OOPEnumComposition.Entities.Enums;
 
-namespace OOPEnumCOmposition.Entities
+namespace OOPEnumComposition.Entities
 {
     internal class Worker
     {
