@@ -22,7 +22,7 @@ namespace OOPEnumComposition.Entities
         }
 
 
-        public  double TotalValue()
+        public double TotalValue()
         {
             return ValuePerHour * Hour;
         }
